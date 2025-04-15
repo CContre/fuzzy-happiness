@@ -5,3 +5,7 @@
 [15Apr2025 00:03:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stoban12 has made the advancement [Diamonds!]
 [15Apr2025 00:04:54.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stoban12 has made the advancement [Stone Age]
 [15Apr2025 00:05:42.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stoban12 has made the advancement [Getting an Upgrade]
+[15Apr2025 00:12:25.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: stoban12 lost connection: Disconnected
+[15Apr2025 00:12:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: stoban12 left the game
+[15Apr2025 00:20:20.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cpontree lost connection: Disconnected
+[15Apr2025 00:20:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cpontree left the game
